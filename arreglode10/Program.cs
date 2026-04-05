@@ -1,13 +1,29 @@
 ﻿using System;
+class Program
+{
+    static void Main()
+    {
+        int[] arreglo = new int[10];
+        arreglo[0] = 100;
+        arreglo[1] = 900;
 
-int[] misNumeros = new int[10];
+        Random generador = new Random();
 
+        for (int i = 2; i < arreglo.Length; i++)
+        {
+            arreglo[i] = generador.Next(1, 101);
+        }
 
-misNumeros[0] = 100; 
-misNumeros[9] = 900; 
+        Console.WriteLine("El primer numero es: " + arreglo[0]);
+        Console.WriteLine("\nTodos los valores del arreglo:  ");
 
-Console.WriteLine("El primer número es: " + misNumeros[0]);
+        for (int i = 0; i < arreglo.Length; i++)
+        {
+            Console.WriteLine($"Indice [{i}] :  {arreglo[i]}: ");
+        }
 
-// Esto evita que la consola se cierre sola inmediatamente
-Console.WriteLine("Presiona cualquier tecla para salir...");
-Console.ReadKey();
+        Console.WriteLine("Precina cualquier tecla para salir.... ");
+        Console.ReadKey();
+
+    }
+}
