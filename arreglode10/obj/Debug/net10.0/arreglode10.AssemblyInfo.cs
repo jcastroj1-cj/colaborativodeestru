@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arreglode10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46d853508a3d3a9f3fa3e34b6738d569e8ee5ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+307a37e7e2696b03fcc15bd62e9ce6f87fc51135")]
 [assembly: System.Reflection.AssemblyProductAttribute("arreglode10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arreglode10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
