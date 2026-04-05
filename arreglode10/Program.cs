@@ -14,12 +14,12 @@ class Program
             arreglo[i] = generador.Next(1, 101);
         }
 
-        Console.WriteLine("El primer numero es: " + arreglo[0]);
-        Console.WriteLine("\nTodos los valores del arreglo:  ");
+        Console.WriteLine("Iniciando el recorrido del arreglo...");
+       
 
         for (int i = 0; i < arreglo.Length; i++)
         {
-            Console.WriteLine($"Indice [{i}] :  {arreglo[i]}: ");
+            Console.WriteLine($"Indice [" + i + "]:" + arreglo[i]);
         }
 
         Console.WriteLine("Precina cualquier tecla para salir.... ");
