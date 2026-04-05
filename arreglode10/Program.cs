@@ -14,13 +14,14 @@ class Program
             arreglo[i] = generador.Next(1, 101);
         }
 
-        Console.WriteLine("Iniciando el recorrido del arreglo...");
+        Console.WriteLine("Mostrando valores con foreach:");
        
 
-        for (int i = 0; i < arreglo.Length; i++)
+        foreach (int numero in arreglo)
         {
-            Console.WriteLine($"Indice [" + i + "]:" + arreglo[i]);
+            Console.WriteLine("Valor: " +numero);
         }
+
 
         Console.WriteLine("Precina cualquier tecla para salir.... ");
         Console.ReadKey();
