@@ -1,0 +1,15 @@
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\bin\Debug\net10.0\arreglode10.exe
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\bin\Debug\net10.0\arreglode10.deps.json
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\bin\Debug\net10.0\arreglode10.runtimeconfig.json
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\bin\Debug\net10.0\arreglode10.dll
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\bin\Debug\net10.0\arreglode10.pdb
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.AssemblyInfoInputs.cache
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.AssemblyInfo.cs
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.csproj.CoreCompileInputs.cache
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.sourcelink.json
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.dll
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\refint\arreglode10.dll
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.pdb
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\arreglode10.genruntimeconfig.cache
+C:\Users\Jean Carlos\source\repos\arreglode10\arreglode10\obj\Debug\net10.0\ref\arreglode10.dll
