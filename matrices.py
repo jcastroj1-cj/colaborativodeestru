@@ -15,3 +15,11 @@ for col in range(3):
     for fila in range(3):
         print(f"matriz[{fila}][{col}] = {matriz[fila][col]}")
     print()
+
+    # Sumar todos los elementos
+    total = 0
+    for fila in matriz:
+        for elemento in fila:
+            total += elemento
+
+    print(f"Suma de todos los elementos: {total}")
