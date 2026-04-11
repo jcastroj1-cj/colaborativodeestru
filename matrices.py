@@ -6,4 +6,12 @@ matriz = [
 
 print("Matriz 3x3:")
 for fila in matriz:
-    print(fila)
+    for elemento in fila:
+        print(elemento, end="\t ")
+    print()
+
+print("\nRecorrido por columnas:")
+for col in range(3):
+    for fila in range(3):
+        print(f"matriz[{fila}][{col}] = {matriz[fila][col]}")
+    print()
