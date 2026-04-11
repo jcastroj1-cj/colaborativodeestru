@@ -19,3 +19,9 @@ for i in range(len(arreglo)):
         arreglo[i] = 0
 
 print("\nArreglo con impares en cero:", arreglo)
+
+# Multiplicar todos los valores por su índice
+for i in range(len(arreglo)):
+    arreglo[i] = arreglo[i] * i
+
+print("Arreglo multiplicado por índice:", arreglo)
