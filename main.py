@@ -8,8 +8,14 @@ print("Arreglo:", arreglo)
 print("\n--- For clásico ---")
 for i in range(len(arreglo)):
     print(f"arreglo[{i}] = {arreglo[i]}")
-    
+
 #blucle for each
 print("\n--- For-each ---")
 for elemento in arreglo:
     print(elemento)
+
+for i in range(len(arreglo)):
+    if arreglo[i] % 2 != 0:
+        arreglo[i] = 0
+
+print("\nArreglo con impares en cero:", arreglo)
